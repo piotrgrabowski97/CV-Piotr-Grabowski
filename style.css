@@ -6,7 +6,7 @@ body {
 .wrapper {
     display: flex;
     flex-direction: row-reverse;
-    width: 1200px;
+    width: 1000px;
     justify-content: center;
     margin: 0 auto;
     background: #ffffff;
@@ -138,4 +138,11 @@ h1 {
     font-weight: 700;
     font-size: 14px;
     line-height: 17px;
+}
+
+.links {
+    margin-top: 43px;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
 }

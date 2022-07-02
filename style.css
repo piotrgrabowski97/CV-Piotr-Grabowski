@@ -32,6 +32,13 @@ aside {
     line-height: 24px;
 }
 
+.contact-link {
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
 .bold {
     font-weight: 700;
 }
@@ -145,4 +152,18 @@ h1 {
     font-weight: 700;
     font-size: 22px;
     line-height: 27px;
+}
+
+.links-item {
+    color: #595959;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.contact-link:hover,
+.contact-link:focus,
+.links-item:hover,
+.links-item:focus {
+    color: #fb6d3a;
 }

@@ -1,6 +1,6 @@
 body {
     font-family: "Montserrat", sans-serif;
-    background: #f5f7fa;
+    background: rgb(190, 190, 190);
 }
 
 .wrapper {
@@ -166,4 +166,5 @@ h1 {
 .links-item:hover,
 .links-item:focus {
     color: #fb6d3a;
+    transition: color 500ms;
 }
